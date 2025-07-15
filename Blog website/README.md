@@ -120,5 +120,3 @@ On clicking the Logout button:
 
 ---
 
-## 📁 Folder Structure (High-Level)
-
