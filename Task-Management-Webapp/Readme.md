@@ -29,8 +29,8 @@ Users can log in or sign up using a username and password.
 - After successful signup, the user is shown a **confirmation banner** and automatically redirected to the login page.
 
 <p align="center">
-  <img src="#login-image-url" alt="Login Page" width="45%" />
-  <img src="#signup-image-url" alt="Signup Page" width="45%" />
+  <img src="[#login-image-url](https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093350.png?raw=true)" alt="Login Page" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093414.png?raw=true" alt="Signup Page" width="45%" />
 </p>
 
 ---
@@ -45,7 +45,10 @@ After login, users land on the **Home Page** with a form to create new tasks. Th
 - “My Task” button to view all tasks
 
 <p align="center">
-  <img src="#insert-task-image-url" alt="Insert Task Section" width="70%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093930.png?raw=true" alt="Insert Task Section" width="70%" />
+</p>
+<p align="center">
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093944.png?raw=true" alt="Insert Task Section" width="70%" />
 </p>
 
 ---
@@ -63,14 +66,10 @@ Displays the list of tasks created by the user, each with:
 ### 🧭 Category Filter & Pie Chart
 
 - On the upper half is a **menu to filter tasks by category**:
-  <img src="#task-category-menu-image-url" alt="Task Category Menu" width="80%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093952.png?raw=true" alt="Task Category Menu" width="80%" />
 
 - On the lower left is a **Pie Chart** showing count of tasks by status:
-  <img src="#task-pie-chart-image-url" alt="Task Pie Chart" width="50%" />
-
-<p align="center">
-  <img src="#task-list-image-url" alt="Task List Section" width="90%" />
-</p>
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094000.png?raw=true" alt="Task Pie Chart" width="50%" />
 
 ---
 
@@ -83,7 +82,7 @@ Clicking the **View icon** on a task from the list opens a **detailed view** whe
 - Submit updates
 
 <p align="center">
-  <img src="#update-task-image-url" alt="Update Task Section" width="70%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094609.png?raw=true" alt="Update Task Section" width="70%" />
 </p>
 
 ---
@@ -97,27 +96,27 @@ Clicking the **Delete icon** on a task:
 - **Pie chart auto-updates** to reflect changes
 
 <p align="center">
-  <img src="#delete-task-image-url" alt="Delete Task Section" width="70%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094131.png?raw=true" alt="Delete Task Section" width="70%" />
 </p>
 
 ---
 
 ## 🙋 About Section
 
-Brief introduction about the app creator and purpose of the project.
+Brief introduction about me and purpose of the project.
 
 <p align="center">
-  <img src="#about-section-image-url" alt="About Me" width="60%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094147.png?raw=true" alt="About Me" width="60%" />
 </p>
 
 ---
 
 ## 📬 Contact Section
 
-Ways for users to connect with the developer (GitHub, LinkedIn, Email, etc.)
+Ways for users to connect with me (GitHub, LinkedIn, Email, etc.)
 
 <p align="center">
-  <img src="#contact-section-image-url" alt="Contact Info" width="60%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094155.png?raw=true" alt="Contact Info" width="60%" />
 </p>
 
 ---
@@ -130,10 +129,9 @@ Clicking Logout:
 - Redirects the user to the login page
 
 <p align="center">
-  <img src="#logout-popup-image-url" alt="Logout Banner" width="40%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094208.png?raw=true" alt="Logout Banner" width="40%" />
 </p>
 
 ---
 
-## 📁 Folder Structure
 
