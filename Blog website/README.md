@@ -27,7 +27,7 @@
 Users can **log in using username and password** or **create a new account**.
 
 <p align="center">
-  <img src="[Blog website/sample-image/Screenshot 2025-07-15 080726.png](https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20080726.png?raw=true)" alt="Login" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20080726.png?raw=true" alt="Login" width="45%" />
   <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20080804.png?raw=true" alt="Signup" width="45%" />
 </p>
 
@@ -43,14 +43,25 @@ After login, users are redirected to the **Home Page**. The **Navbar** contains:
 - **Logout**
 
 <p align="center">
-  <img src="#home-section-image-url" alt="Home Section" width="80%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082559.png?raw=true" alt="Home Section" width="80%" />
 </p>
 
 - 📌 **Left Section:** Blog categories  
 - 📰 **Right Section:** List of blogs based on selected category
 
 ---
+## 📄 Create Blog Section
 
+When create blog button is clicked, it opens up a window with:
+- **Title**
+- **Image**
+- **Description**
+  user can insert image of their choice here and write titile and description of theri blog, publish saves the blog in the databse.
+<p align="center">
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082150.png?raw=true" alt="Blog View 1" width="45%" />
+
+</p>
+  
 ## 📄 Blog Section
 
 When a blog is clicked, it opens up with:
