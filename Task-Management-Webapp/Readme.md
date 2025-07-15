@@ -29,7 +29,7 @@ Users can log in or sign up using a username and password.
 - After successful signup, the user is shown a **confirmation banner** and automatically redirected to the login page.
 
 <p align="center">
-  <img src="[#login-image-url](https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093350.png?raw=true)" alt="Login Page" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093350.png?raw=true" alt="Login Page" width="45%" />
   <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093414.png?raw=true" alt="Signup Page" width="45%" />
 </p>
 
