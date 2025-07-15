@@ -75,8 +75,8 @@ When a blog is clicked, it opens up with:
 - **Review Section** for public comments
 
 <p align="center">
-  <img src="#blog-view-image-1" alt="Blog View 1" width="45%" />
-  <img src="#blog-view-image-2" alt="Blog View 2" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082650.png?raw=true" alt="Blog View 1" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082751.png?raw=true" alt="Blog View 2" width="45%" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ Owners can update blogs:
 - On save, blog updates and redirects back to the blog view
 
 <p align="center">
-  <img src="#update-blog-image-url" alt="Update Blog" width="60%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20083021.png?raw=true" alt="Update Blog" width="60%" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ Owners can update blogs:
 This section introduces the creator of Blog Space and the motivation behind the project.
 
 <p align="center">
-  <img src="#about-section-image-url" alt="About Me" width="60%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082843.png?raw=true" alt="About Me" width="60%" />
 </p>
 
 ---
@@ -113,7 +113,7 @@ Users can get in touch via:
 - Email
 
 <p align="center">
-  <img src="#contact-section-image-url" alt="Contact" width="60%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082853.png?raw=true" alt="Contact" width="60%" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ On clicking the Logout button:
 - User is redirected to the login screen
 
 <p align="center">
-  <img src="#logout-popup-image-url" alt="Logout Popup" width="40%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082902.png?raw=true" alt="Logout Popup" width="40%" />
 </p>
 
 ---
