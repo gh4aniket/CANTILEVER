@@ -1,6 +1,6 @@
 # CANTILEVER
 
-Welcome to the **CANTILEVER** repository! This repo contains two full-stack web applications built using the MERN stack, each housed in its own directory with independent functionality, purpose, and README documentation.
+Welcome to the **CANTILEVER** repository! This repo contains two full-stack web applications built using the MERN stack which were assigned to me as part of my internship with cantilever, each housed in its own directory with independent functionality, purpose, and README documentation.
 
 ---
 
