@@ -27,8 +27,8 @@
 Users can **log in using username and password** or **create a new account**.
 
 <p align="center">
-  <img src="#login-image-url" alt="Login" width="45%" />
-  <img src="#signup-image-url" alt="Signup" width="45%" />
+  <img src="Blog website/sample-image/Screenshot 2025-07-15 080726.png" alt="Login" width="45%" />
+  <img src="Blog website/sample-image/Screenshot 2025-07-15 080804.png" alt="Signup" width="45%" />
 </p>
 
 ---
