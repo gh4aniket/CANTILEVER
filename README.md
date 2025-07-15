@@ -16,7 +16,7 @@ A robust and interactive task management system where users can create, track, a
 
 ---
 
-### 2. 📝 Blog Space (`/Blog-Space`)
+### 2. 📝 Blog Website (`/Blog-Space`)
 
 A fully-featured blog publishing platform where users can create and view posts. It uses Material UI for styling, MongoDB with Multer for image uploads, and JSON Web Tokens for authentication. Ideal for writers and readers.
 
