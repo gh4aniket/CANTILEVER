@@ -28,7 +28,7 @@ Users can **log in using username and password** or **create a new account**.
 
 <p align="center">
   <img src="Blog website/sample-image/Screenshot 2025-07-15 080726.png" alt="Login" width="45%" />
-  <img src="[Blog website/sample-image/Screenshot 2025-07-15 080804.png](https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20080804.png)" alt="Signup" width="45%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20080804.png?raw=true" alt="Signup" width="45%" />
 </p>
 
 ---
