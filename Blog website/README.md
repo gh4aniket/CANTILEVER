@@ -1,4 +1,4 @@
-# 📝 Blog Space
+# 📝 Blog Website-Blog Space
 
 **Blog Space** is a full-featured blog application built using the **MERN stack** (MongoDB, Express, React, Node.js). It provides user authentication, blog creation, image uploading, category filtering, review functionality, and a clean responsive UI using **Material UI**.
 
