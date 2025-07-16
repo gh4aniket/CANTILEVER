@@ -12,7 +12,7 @@ const app = express()
 
 app.use(express.json())
 app.use(cors({
-    origin: 'https://task-management-webapp-task.netlify.app/account'
+    origin: 'https://task-management-webapp-task.netlify.app'
 }))
 
 
