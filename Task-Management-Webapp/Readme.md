@@ -70,6 +70,7 @@ Displays the list of tasks created by the user, each with:
   <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093952.png?raw=true" alt="Task Category Menu" width="80%" />
 
 - On the lower left is a **Pie Chart** showing count of tasks by status:
+- 
   <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20094000.png?raw=true" alt="Task Pie Chart" width="50%" />
 
 ---
