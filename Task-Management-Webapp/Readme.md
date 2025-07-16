@@ -2,7 +2,7 @@
 
 A simple and powerful **Task Management System** built with the **MERN stack** (MongoDB, Express.js, React.js with Vite, Node.js). It allows users to register, log in, create, view, update, delete, and track tasks based on their current status.
 
-🔗🔗you can view the live app here → **[Live App on Vercel](https://task-management-webapp-task.netlify.app/)**  
+🔗you can view the live app here → **[Live App on Vercel](https://task-management-webapp-task.netlify.app/)**  
 ---
 
 ## 🔧 Technologies Used
