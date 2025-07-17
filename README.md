@@ -10,7 +10,7 @@ Welcome to the **CANTILEVER** repository! This repo contains two full-stack web 
 
 A robust and interactive task management system where users can create, track, and categorize their tasks into statuses like "Pending", "Running", "Completed", and "Failed". It includes authentication, task filtering, and an elegant UI.
 
-<img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093944.png?raw=true" alt="Task Management App Preview" width="600"/>
+<img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/sample-image/Screenshot%202025-07-15%20093944.png?raw=true" alt="Task Management App Preview"/>
 
 🔗 **[Live App on Vercel →](https://task-management-webapp-task.netlify.app/)**  
 📄 [View Task Manager README →](https://github.com/gh4aniket/CANTILEVER/blob/main/Task-Management-Webapp/Readme.md)
