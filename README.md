@@ -21,7 +21,7 @@ A robust and interactive task management system where users can create, track, a
 
 A fully-featured blog publishing platform where users can create and view posts. It uses Material UI for styling, MongoDB with Multer for image uploads, and JSON Web Tokens for authentication. Ideal for writers and readers.
 
-<img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082559.png?raw=true" alt="Blog App Preview" width="600"/>
+<img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-17%20180807.png?raw=true"/>
 
 🔗 **[Live App on Vercel →](https://blog-space-blog-website.netlify.app)**  
 📄 [View Blog Space README →](https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/README.md)
