@@ -44,7 +44,7 @@ After login, users are redirected to the **Home Page**. The **Navbar** contains:
 - **Logout**
 
 <p align="center">
-  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-15%20082559.png?raw=true" alt="Home Section" width="80%" />
+  <img src="https://github.com/gh4aniket/CANTILEVER/blob/main/Blog%20website/sample-image/Screenshot%202025-07-17%20180807.png?raw=true" alt="Home Section" width="80%" />
 </p>
 
 - 📌 **Left Section:** Blog categories  
